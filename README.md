@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Kajal</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e473ihtheuagqi2sxgcz8lcwunhxu38cc0kwt9azc5e&ep=v1_gifs_search&rid=200.webp&ct=g">
+#<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?#cid=ecf05e473ihtheuagqi2sxgcz8lcwunhxu38cc0kwt9azc5e&ep=v1_gifs_search&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajalk-k&label=Profile%20views&color=0e75b6&style=flat" alt="kajalk-k" /> </p>
 
